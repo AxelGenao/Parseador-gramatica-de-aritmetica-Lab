@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\claselab\claselab\claselab\bin\Debug\netcoreapp3.1\claselab.exe
+C:\Users\Admin\Desktop\claselab\claselab\claselab\bin\Debug\netcoreapp3.1\claselab.deps.json
+C:\Users\Admin\Desktop\claselab\claselab\claselab\bin\Debug\netcoreapp3.1\claselab.runtimeconfig.json
+C:\Users\Admin\Desktop\claselab\claselab\claselab\bin\Debug\netcoreapp3.1\claselab.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\claselab\claselab\claselab\bin\Debug\netcoreapp3.1\claselab.dll
+C:\Users\Admin\Desktop\claselab\claselab\claselab\bin\Debug\netcoreapp3.1\claselab.pdb
+C:\Users\Admin\Desktop\claselab\claselab\claselab\bin\Debug\netcoreapp3.1\Antlr4.Runtime.Standard.dll
+C:\Users\Admin\Desktop\claselab\claselab\claselab\obj\Debug\netcoreapp3.1\claselab.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\claselab\claselab\claselab\obj\Debug\netcoreapp3.1\claselab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\claselab\claselab\claselab\obj\Debug\netcoreapp3.1\claselab.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\claselab\claselab\claselab\obj\Debug\netcoreapp3.1\claselab.AssemblyInfo.cs
+C:\Users\Admin\Desktop\claselab\claselab\claselab\obj\Debug\netcoreapp3.1\claselab.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\claselab\claselab\claselab\obj\Debug\netcoreapp3.1\claselab.csproj.CopyComplete
+C:\Users\Admin\Desktop\claselab\claselab\claselab\obj\Debug\netcoreapp3.1\claselab.dll
+C:\Users\Admin\Desktop\claselab\claselab\claselab\obj\Debug\netcoreapp3.1\claselab.pdb
+C:\Users\Admin\Desktop\claselab\claselab\claselab\obj\Debug\netcoreapp3.1\claselab.genruntimeconfig.cache
